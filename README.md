@@ -227,20 +227,7 @@ Typical preparation activities include:
 
 > The `Screenshot` folder must remain in the same repository as `README.md`. The image paths above match the filenames shown in your uploaded dashboard files.
 
-## 📁 Recommended GitHub Repository Structure
 
-```text
-Regional-Sales-Performance-Analysis/
-│
-├── README.md
-├── Excel/
-│   └── Regional_Sales_Performance_Analysis.xlsx
-├── Dataset/
-│   └── sales_data.xlsx
-└── Screenshot/
-    ├── Dashboard.PNG
-    └── Stacked Chart.PNG
-```
 
 If the source dataset is not licensed for public redistribution, do not upload the raw dataset.
 
